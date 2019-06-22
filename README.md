@@ -9,4 +9,4 @@
 get a ETH contract by hash-id
 
 ## Frontend 
-wäre dann im src folter, soweit mal gesetupt
+wäre dann im src folder, soweit mal gesetupt
