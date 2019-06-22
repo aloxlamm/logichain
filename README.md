@@ -4,9 +4,9 @@
 - install: `npm i --save-dev`;
 - run api: `npm run start-api`
 
-## API
+## REST API
 - /contracts-eth/{hash}
 get a ETH contract by hash-id
 
-## FROTNEND 
+## Frontend 
 wäre dann im src folter, soweit mal gesetupt
